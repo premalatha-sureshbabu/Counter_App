@@ -4,6 +4,7 @@ body {
   align-items: center;
   margin-top: 50px;
   font-family: Arial, sans-serif;
+  background-color: beige;
 }
 
 textarea {
