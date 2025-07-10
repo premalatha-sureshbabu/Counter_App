@@ -7,7 +7,7 @@ textarea.addEventListener("input", function() {
   counter.textContent = "Characters: " + charCount;
   if (charCount > maxChars) {
     counter.style.color = "red";
-    counter.textContent += "  Limit exceeded!";
+    counter.textContent += "Limit exceeded!";
   } else {
     counter.style.color = "black";
   }
